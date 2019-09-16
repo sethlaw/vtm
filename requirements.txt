@@ -1,3 +1,4 @@
-django
+
+Django==2.1
 django_extensions
 mysqlclient
